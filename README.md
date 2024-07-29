@@ -7,6 +7,7 @@ In today's digital age, video conferencing tools like Zoom have become integral 
 **Database and tools**
 
 i. PostgesSQL
+
 ii. PgAdmin4
 
 **Objective**
