@@ -5,8 +5,10 @@
 In today's digital age, video conferencing tools like Zoom have become integral to how we communicate and collaborate. Understanding the usage patterns, performance metrics, and customer behavior associated with these tools is crucial for businesses looking to optimize their services. This project, "Product Dissection for Zoom Using SQL," aims to analyze various aspects of Zoom's usage data to extract meaningful insights and provide actionable recommendations.
 
 **Database and tools**
-**.** PostgesSQL
-**.** PGAdmin4
+
+i. PostgesSQL
+ii. PgAdmin4
+
 **Objective**
 
 The primary objective of this project is to dissect and analyze Zoom's usage data using SQL to uncover patterns and trends. This analysis will help in understanding user behavior, identifying potential areas of improvement, and making data-driven decisions to enhance the overall user experience.
